@@ -1,0 +1,21 @@
+Strain,Species,Assembly_Accession,Genome_Size_bp,Prophage_count,Total_prophage_bp,Prophage_percentage,CRISPR_arrays,Spacer_count,Interpretation,CRISPR_Presence,Prophage_Burden
+DSM 17938,Limosilactobacillus reuteri subsp. kinnaridis,GCF_041888805.1,2249437,8,197796,8.793133570755703,0,0,Prophages detected without CRISPR arrays,No,High
+DF,Lactiplantibacillus plantarum,GCF_001704335.1,3697306,8,276520,7.478959004204682,0,0,Prophages detected without CRISPR arrays,No,High
+ST-III,Lactiplantibacillus plantarum ST-III,GCF_000148815.2,3307936,5,166970,5.047558356630842,0,0,Prophages detected without CRISPR arrays,No,Moderate
+WCFS1,Lactiplantibacillus plantarum WCFS1,GCF_000203855.3,3348624,4,122062,3.645139018295276,0,0,Prophages detected without CRISPR arrays,No,Moderate
+IFO 3956,Limosilactobacillus fermentum IFO 3956,GCF_000010145.1,2098685,4,101480,4.835408839344637,3,49,CRISPR defense system coexists with prophages,Yes,Moderate
+ZJ316,Lactiplantibacillus plantarum ZJ316,GCF_000338115.2,3299755,4,155333,4.707410095598006,1,6,CRISPR defense system coexists with prophages,Yes,Moderate
+GG (ATCC 53103),Lacticaseibacillus rhamnosus GG,GCF_000026505.1,3010111,3,93148,3.0945038239453626,1,25,CRISPR defense system coexists with prophages,Yes,Moderate
+DSM 20016,Limosilactobacillus reuteri subsp. reuteri,GCF_000016825.1,1999618,3,88192,4.410442394497349,0,0,Prophages detected without CRISPR arrays,No,Moderate
+LM1,Limosilactobacillus mucosae LM1,GCF_000248095.2,2434610,3,60322,2.477686364551201,4,61,CRISPR defense system coexists with prophages,Yes,Moderate
+JDM1,Lactiplantibacillus plantarum JDM1,GCF_000023085.1,3197759,3,92193,2.883050286153522,0,0,Prophages detected without CRISPR arrays,No,Moderate
+16,Lactiplantibacillus plantarum 16,GCF_000412205.1,3361015,3,98240,2.9229265564122744,0,0,Prophages detected without CRISPR arrays,No,Moderate
+R0052,Lactobacillus helveticus R0052,GCF_000165775.1,2129206,3,67425,3.1666733984405457,1,35,CRISPR defense system coexists with prophages,Yes,Moderate
+ATCC 334,Lacticaseibacillus paracasei ATCC 334,GCF_000014525.1,2924325,2,88838,3.03789763449685,1,22,CRISPR defense system coexists with prophages,Yes,Low
+Zhang,Lacticaseibacillus paracasei,GCF_000019245.4,2898456,2,33356,1.150819608784815,1,17,CRISPR defense system coexists with prophages,Yes,Low
+DSM 20174,Lactiplantibacillus plantarum,GCF_014131735.1,3250154,2,88432,2.72085568868429,0,0,Prophages detected without CRISPR arrays,No,Low
+NCC 533,Lactobacillus johnsonii NCC 533,GCF_000008065.1,1992676,2,86788,4.355349289096672,0,0,Prophages detected without CRISPR arrays,No,Low
+ATCC 33323,Lactobacillus gasseri ATCC 33323 = JCM 1131,GCF_000014425.1,1894360,2,97116,5.126586287717224,0,0,Prophages detected without CRISPR arrays,No,Low
+P-8,Lactiplantibacillus plantarum,GCA_000392485.2,3274379,2,98344,3.0034397362064684,0,0,Prophages detected without CRISPR arrays,No,Low
+La-14,Lactobacillus acidophilus La-14,GCF_000389675.2,1991579,1,20488,1.0287314738707327,1,33,CRISPR defense system coexists with prophages,Yes,Low
+NCFM,Lactobacillus acidophilus NCFM,GCF_000011985.1,1993560,1,12022,0.6030417945785429,1,33,CRISPR defense system coexists with prophages,Yes,Low

@@ -1,0 +1,21 @@
+accession,strain,n_prophages,n_virus_confirmed,n_plasmid_flagged,n_unclassified,mean_completeness,n_high_or_complete
+GCF_041888805.1,DSM 17938 (L. reuteri),8,3,1,4,40.1,1
+GCF_001704335.1,DF (L. plantarum),8,7,1,0,68.9,1
+GCF_000148815.2,ST-III (L. plantarum),5,2,2,1,64.3,1
+GCF_000010145.1,IFO 3956 (L. fermentum),4,2,1,1,44.7,1
+GCF_000338115.2,ZJ316 (L. plantarum),4,3,1,0,75.3,1
+GCF_000203855.3,WCFS1 (L. plantarum),4,3,1,0,72.9,1
+GCF_000165775.1,R0052 (L. helveticus),3,0,2,1,30.7,0
+GCF_000248095.2,LM1 (L. mucosae),3,3,0,0,40.5,1
+GCF_000412205.1,16 (L. plantarum),3,1,2,0,100.0,1
+GCF_000016825.1,DSM 20016 (L. reuteri),3,3,0,0,68.0,1
+GCF_000023085.1,JDM1 (L. plantarum),3,3,0,0,66.6,0
+GCF_000026505.1,GG/ATCC 53103 (L. rhamnosus),3,3,0,0,92.2,2
+GCF_000014525.1,ATCC 334 (L. paracasei),2,2,0,0,88.2,1
+GCF_000008065.1,NCC 533 (L. johnsonii),2,2,0,0,100.0,2
+GCA_000392485.2,P-8 (L. plantarum),2,2,0,0,90.0,1
+GCF_000019245.4,Zhang (L. paracasei),2,1,1,0,100.0,1
+GCF_014131735.1,DSM 20174 (L. plantarum),2,2,0,0,88.2,1
+GCF_000014425.1,ATCC 33323 (L. gasseri),2,2,0,0,69.5,1
+GCF_000011985.1,NCFM (L. acidophilus),1,0,1,0,,0
+GCF_000389675.2,La-14 (L. acidophilus),1,0,1,0,,0
