@@ -1,0 +1,30 @@
+# Core data handling
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+
+# Bioinformatics
+biopython>=1.80
+dendropy>=4.6
+scikit-bio>=0.5.8
+
+# Deep learning / protein language model
+torch>=2.0
+fair-esm>=2.0.0
+
+# External tools (installed separately, not via pip -- see docs/METHODS.md):
+#   geNomad   v1.7.0   -- pip install genomad
+#   CheckV    v1.0.1   -- pip install checkv
+#   PhiSpy    v5.0.10  -- pip install phispy
+#   CRISPRCasTyper (cctyper) v1.8.0 -- conda install -c bioconda cctyper
+#   MAFFT     v7.505   -- apt install mafft
+#   FastTree  v2.1.11  -- apt install fasttree
+#   NCBI Datasets CLI  -- https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/
+
+# Clustering / dimensionality reduction
+umap-learn>=0.5
+hdbscan>=0.8
+
+# Visualization
+matplotlib>=3.6
+networkx>=3.0
